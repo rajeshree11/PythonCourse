@@ -45,7 +45,9 @@
 
 
 # Solution:
+num = 15
+num = 4
 
-# remainder = 15 % 4
-# print(remainder)
+answer = 15%4
+print(answer)
 
